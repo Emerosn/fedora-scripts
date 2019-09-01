@@ -14,4 +14,9 @@ dnf install steam \
 	    xorg-x11-drv-nvidia\
             akmod-nvidia\ 
 	    nvidia-xconfig.x86_64\
- 	    nvidia-settings.x86_64
+ 	    nvidia-settings.x86_64\
+	    gimp.x86_64\
+	    inkscape\
+	    freecad.x86_64\
+	    terminus-fonts-console.noarch
+	    
